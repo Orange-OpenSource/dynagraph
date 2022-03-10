@@ -1,0 +1,2 @@
+websockets  # For WebSocket scripts
+haralyzer   # For HAR files

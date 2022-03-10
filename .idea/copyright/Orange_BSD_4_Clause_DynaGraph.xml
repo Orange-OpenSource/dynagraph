@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value=" Software Name : &amp;#36;project.name&#10; Version: 1.0.0&#10; SPDX-FileCopyrightText: Copyright (c) 2021-&amp;#36;today.year Orange&#10; SPDX-License-Identifier: BSD-4-Clause&#10;&#10; This software is distributed under the BSD-4-Clause,  the text of which is available at https://spdx.org/licenses/ or see the &quot;LICENSE.txt&quot; file for more details.&#10;&#10; Author: Lionel TAILHARDAT&#10; Software description: The DynaGraph framework: a system combining classical traces dumping tools (i.e. the tshark tool and Firefox's Network Monitor component) and a ReactJS web app for live 3D graph rendering of streamed graph data derived from traces." />
+    <option name="myName" value="Orange-BSD-4-Clause-DynaGraph" />
+  </copyright>
+</component>
