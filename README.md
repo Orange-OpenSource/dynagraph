@@ -36,7 +36,7 @@ Data visualization:
 ## Quick start
 
 * Git clone the project to your computer and change directory to the project directory,
-* Install the DynaGraph Web app dependencies with the `npm install` CLI command, 
+* Install the DynaGraph Web app dependencies with the `npm install` CLI command (or `npm ci` for using [package-lock.json](package-lock.json)), 
 * Launch the DynaGraph Web app with the `npm run start` CLI command,
 * Install the Python data generation script dependencies with the `pip install -r data-collection/requirements.txt` CLI command,
 * Launch the random data generation script with the `python data-collection/ws_server.py` CLI command,
@@ -49,6 +49,7 @@ Data visualization:
 
 We provide detailed usage directions of the DynaGraph framework in sections below.
 
+See the "*[DynaGraph TWC2022](doc/DynaGraph_TWC2022.mp4)*" video demo for a short introduction to the framework usage.  
 See the "*[Experiments](#experiments)*" Section for directions about the experiments setup provided in the "*Walks in Cyberspace*" paper.
 
 ### Data collection
