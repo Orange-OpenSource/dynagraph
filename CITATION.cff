@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Walks in Cyberspace: Improving Web Browsing and
+  Network Activity Analysis with 3D Live Graph
+  Rendering
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0001-5887-899X'
+    affiliation: Orange
+    given-names: Lionel
+    family-names: Tailhardat
+  - orcid: 'https://orcid.org/0000-0001-5639-1504'
+    given-names: Yoan
+    family-names: Chabot
+    affiliation: Orange
+  - orcid: 'https://orcid.org/0000-0003-0457-1436'
+    affiliation: EURECOM
+    given-names: Raphaël
+    family-names: Troncy
+identifiers:
+  - type: doi
+    value: 10.1145/3487553.3524230
+    description: Identifier for the related research paper
+repository-code: 'https://github.com/Orange-OpenSource/dynagraph'
+keywords:
+  - Web Browsing Traces
+  - User and Entity Behavior Analytics (UEBA)
+  - Network Resource Allocation Planning
+  - Network Visualization
+  - Multilayered Graphs
+license: BSD-4-Clause
